@@ -9,4 +9,4 @@ tags: [ml, data-science, python, data]
 pin: true
 ---
 
-## This is a machine learning project that utilizes a breast cancer dataset to predict a diagnosis of the cancer (whether or not its malignant or benign) based on the physical characteristics of the cancer.
+### This is a machine learning project that utilizes a breast cancer dataset to predict a diagnosis of the cancer (whether or not its malignant or benign) based on the physical characteristics of the cancer.
